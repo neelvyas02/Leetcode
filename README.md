@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/neelvyas02/Leetcode/tree/master/0035-search-insert-position) |
 | [3866-first-unique-even-element](https://github.com/neelvyas02/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neelvyas02/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/neelvyas02/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

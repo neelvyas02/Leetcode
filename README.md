@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/neelvyas02/Leetcode/tree/master/0035-search-insert-position) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/neelvyas02/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3866-first-unique-even-element](https://github.com/neelvyas02/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |

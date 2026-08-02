@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/neelvyas02/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neelvyas02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neelvyas02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/neelvyas02/Leetcode/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/neelvyas02/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/neelvyas02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3866-first-unique-even-element](https://github.com/neelvyas02/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/neelvyas02/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/neelvyas02/Leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neelvyas02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/neelvyas02/Leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/neelvyas02/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/neelvyas02/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neelvyas02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/neelvyas02/Leetcode/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/neelvyas02/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/neelvyas02/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/neelvyas02/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

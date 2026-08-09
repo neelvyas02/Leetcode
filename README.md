@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/neelvyas02/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/neelvyas02/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/neelvyas02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neelvyas02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neelvyas02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/neelvyas02/Leetcode/tree/master/0877-stone-game) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neelvyas02/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/neelvyas02/Leetcode/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/neelvyas02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neelvyas02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/neelvyas02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/neelvyas02/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/neelvyas02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neelvyas02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/neelvyas02/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/neelvyas02/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neelvyas02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/neelvyas02/Leetcode/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/neelvyas02/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/neelvyas02/Leetcode/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/neelvyas02/Leetcode/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neelvyas02/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/neelvyas02/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/neelvyas02/Leetcode/tree/master/3731-find-missing-elements) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/neelvyas02/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/neelvyas02/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/neelvyas02/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/neelvyas02/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/neelvyas02/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/neelvyas02/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/neelvyas02/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neelvyas02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/neelvyas02/Leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/neelvyas02/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/neelvyas02/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/neelvyas02/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/neelvyas02/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neelvyas02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/neelvyas02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neelvyas02/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -95,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/neelvyas02/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/neelvyas02/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/neelvyas02/Leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |

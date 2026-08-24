@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/neelvyas02/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/neelvyas02/Leetcode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/neelvyas02/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/neelvyas02/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/neelvyas02/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/neelvyas02/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/neelvyas02/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/neelvyas02/Leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/neelvyas02/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/neelvyas02/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/neelvyas02/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/neelvyas02/Leetcode/tree/master/0069-sqrtx) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/neelvyas02/Leetcode/tree/master/0182-duplicate-emails) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/neelvyas02/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
